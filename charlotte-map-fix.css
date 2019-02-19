@@ -1,0 +1,5 @@
+@media print, screen and (min-width: 481px) {
+	.section_content .tsT_plugin.large .left #_the_map_wrapper .b2b-location.wide {
+	  flex-wrap: wrap;
+	}
+}

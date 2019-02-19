@@ -1,0 +1,22 @@
+/* PHONE NUMER APPLE FIX  */
+/* may need to be more specific for phone numbers in paragraphs */
+.footer a[href^="tel:"] {color: #fff !important}
+
+/* altering phone number size */
+.header_share_wrap.dropdown-list .phone:before  {
+  font-size: 3rem;
+}
+
+.header_share_wrap.dropdown-list, .header_share_wrap.dropdown-list a.phone:after {
+  font-size: 2rem;
+}
+
+/* OR */
+
+.share_icons_list .phone:before  {
+  font-size: 3rem !important;
+}
+
+.share_icons_list a.phone:after {
+  font-size: 2rem !important;
+}
