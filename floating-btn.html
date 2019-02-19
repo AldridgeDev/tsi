@@ -1,0 +1,82 @@
+<script> jQuery(document).ready(function(){ jQuery("body").append("<div id='floating-btn'><a href='/contact/'><span class='cta_btn'>Contact Us</span></a></div>"); }); </script>
+
+<style>
+  /* floating button */
+  #floating-btn {
+    bottom: 14px;
+    position: fixed;
+    right: 20px;
+    z-index: 99999999;
+  }
+  .mobileview #floating-btn{
+    display: none !important;
+  }
+  html:not(.mobileview) #floating-btn{
+    display: block !important;
+  }
+  .cta_btn {
+    background-color: #2294d2;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 15px;
+    margin: 5px;
+    padding: 20px 20px 40px;
+    text-transform:  uppercase;
+    font-weight:  600;
+  }
+  .cta_btn:hover{
+  background-color: #000;
+  -webkit-transition: all .5s ease !important;
+  transition: all .5s ease !important;
+  }
+
+  /* end floating button code */
+</style>
+
+<!-- OPTION 2 -->
+
+<script>
+  	jQuery(document).ready(function() {
+  		jQuery("body").append("<div id='fxd_1'><a href='/schedule-an-appointment/' class='ftr_tab'>Schedule an Appointment</a></div>");
+});
+</script>
+
+<style>
+/*-----Fixed Footer Tab-----*/
+ #fxd_1 {
+ bottom: 8.5%;
+ position: fixed;
+ right: -5px;
+ z-index: 11;
+ }
+ .mobileview #fxd_1 {
+ display: none !important;
+ }
+ html:not(.mobileview) #fxd_1 {
+ display: block !important;
+ }
+ .ftr_tab {
+ background-color: #C18AA7;
+ border-top-left-radius: 10px;
+ border-bottom-left-radius:10px;
+ border: solid 2px #fff !important;
+ color: #fff;
+ font-size: 15px;
+ margin: 5px;
+ padding: 15px;
+ text-transform: uppercase;
+ font-weight: 600;
+ box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+ transition: all 1s ease-in-out !important;
+ }
+ .ftr_tab:after {content:" >";font-family: "tsi-cms";font-size:75%;}
+ .ftr_tab:hover{
+ background-color: #fff;
+ -webkit-transition: all .3s ease !important;
+ border: solid 2px #C18AA7 !important;
+ color: #C18AA7 !important;
+ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+ transition: all 1s ease-in-out !important;
+ }
+ /*-----End of Fixed Footer Tab-----*/
+ </style>
