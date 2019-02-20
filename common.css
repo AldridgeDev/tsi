@@ -4,11 +4,11 @@
 
 /* altering phone number size */
 .header_share_wrap.dropdown-list .phone:before  {
-  font-size: 3rem;
+  font-size: 3rem !important;
 }
 
 .header_share_wrap.dropdown-list, .header_share_wrap.dropdown-list a.phone:after {
-  font-size: 2rem;
+  font-size: 2rem !important;
 }
 
 /* OR */
