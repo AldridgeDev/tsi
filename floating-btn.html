@@ -80,3 +80,38 @@
  }
  /*-----End of Fixed Footer Tab-----*/
  </style>
+
+
+<!-- Floating Button Style 3 -->
+
+<script> jQuery(document).ready(function(){ jQuery("body").append("<div id='cta'><a href='/contact/'>Click for Free Estimate!</a></div>"); }); </script>
+
+<style>
+  /*fixed button*/
+  #cta {
+  top:92%!important;
+  text-align:center !important;
+  position: fixed !important;
+  right: 70% !important;
+  z-index: 12 !important;
+  }
+
+  #cta a {
+   color: #fff !important;
+   background-color: #b60000 !important;
+  margin: 5px !important;
+  padding:10px !important;
+  border-radius: 3px !important;
+  font-size: 3rem !important;
+  }
+
+  @media (max-width:816px) {
+  #cta a {
+   font-size: 1.7rem !important;
+   }}
+  @media (max-width:675px) {
+  #cta {
+   display:none !important;
+   }}
+  /*end fixed button*/
+</style>

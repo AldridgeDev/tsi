@@ -1,10 +1,19 @@
 <div class="flex">
   <a href="https://www.lyonfinancial.net/apply/" target="_blank"><img src="/files/2019/02/lyon.jpg" width="250"></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hfsfinancial.net/apply.php" target="_blank"><img src="/files/2019/02/hfs.png" width="250"></a>
 </div>
 
 <style>
   .flex {
-    
+    display: flex;
+    justify-content: center;
+  }
+
+  @media (max-width) {
+    .flex {
+      align-items: center;
+      flex-direction: center;
+    }
   }
 </style>
