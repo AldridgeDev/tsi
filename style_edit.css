@@ -1,12 +1,5 @@
-.pay-btn {
-  border: solid #fff 1px;
-  color: #fff;
+@media (max-width: 403px) {
+  .home #article-a3-1 > div > div > div.the_list_text > div.the_list_item_heads > h3 {
+    font-size: 1.35rem !important;
+  }
 }
-
-.not-so-lonely-button {
-  width: 200px;
-  height: 150px;
-  background: #AD3D3B;
-}
-
-.not-so
