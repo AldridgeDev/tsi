@@ -115,3 +115,43 @@
    }}
   /*end fixed button*/
 </style>
+
+
+<!-- Gradient Floating Button -->
+<script>jQuery(document).ready(function(){ jQuery("body").append("<div id='floating-btn'><a href='/contact-us/'><span class='cta_btn'>Click Here to Email Fuller Physical Therapy</span></a></div>");});</script>
+
+<style>
+/* floating button */
+  #floating-btn {
+    bottom: 14px;
+    position: fixed;
+    right: 20px;
+    z-index: 99999999;
+  }
+ /* .mobileview #floating-btn{
+    display: none !important;
+  }
+  html:not(.mobileview) #floating-btn{
+    display: block !important;
+  }*/
+  .cta_btn {
+    border-radius: 15px;
+    color: #fff;
+    font-size: 15px;
+    margin: 5px;
+    padding: 20px 20px 40px;
+    text-transform:  uppercase;
+    font-weight:  600;
+	background: linear-gradient(270deg, #ad0b36, #0153a9);
+	background-size: 600% 600%;
+	animation: gradient 10s ease infinite;
+  }
+
+@keyframes gradient {
+		0%{background-position:0% 50%}
+		50%{background-position:100% 50%}
+		100%{background-position:0% 50%}
+	}
+
+  /* end floating button code */
+  </style>
