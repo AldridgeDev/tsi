@@ -1,0 +1,43 @@
+<style>
+/* sleek slider */
+.tsidesign_sleek_marquee {
+	display: flex !important;
+	align-items: center;
+    padding: 10px 0 0 0 !important;
+}
+
+.tsidesign_sleek_marquee .the_list_item {
+	margin: 0 20px;
+	max-width: 300px;
+}
+
+.mobileview .tsidesign_sleek_marquee .the_list_item {
+	max-width: 150px;
+}
+
+.tsidesign_sleek_marquee:last-of-type {
+	margin: 0 !important;
+}
+/* sleek slider */
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.5.0/jquery.marquee.js"></script>
+
+<script>
+$(document).ready(function(){$(".tsidesign_sleek_marquee").wrapAll("<div class='marquee'></div>");});
+
+$(document).ready(function(){
+  $('.marquee').marquee({
+	  //speed in milliseconds of the marquee
+	  duration: 15000,
+	  //time in milliseconds before the marquee will start animating
+	  delayBeforeStart: 0,
+	  //'left' or 'right'
+	  direction: 'left',
+	  //true or false - should the marquee be duplicated to show an effect of continues flow
+	  duplicated: true,
+	  //starts the slider with all images visible instead of starting from the left or right
+	  startVisible: true
+  });
+});
+</script>
