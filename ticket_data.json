@@ -3,8 +3,7 @@
     "ticketName": "Delete/Hide 1 Item",
     "ticket_rating": "1",
     "tags": ["delete", "hide", "remove", "blank"],
-    "category": "Variety",
-    "ticketDesc" : "<div class=\"test-class\">Please delete the following item:</div> "
+    "category": "Variety"
 },
 {
     "id": 2,
