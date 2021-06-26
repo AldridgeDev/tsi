@@ -4,7 +4,7 @@
     "ticket_rating": "1",
     "tags": ["delete", "hide", "remove", "blank"],
     "category": "Variety",
-    "ticketDesc" : "Please delete the following item: "
+    "ticketDesc" : "<div class=\"test-class\">Please delete the following item:</div> "
 },
 {
     "id": 2,
