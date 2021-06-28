@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Ticket Buddy!</title>
+        <link rel="stylesheet" href="theme.css">
+        <link rel="stylesheet" href="app.css" />
+        <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="theme"><a href="#" id="light">light</a><a href="#" id="dark">dark</a><a href="#" id="solar">solarize</a></div>
+            <h1>Ticket Buddy</h1>
+            <h4>Created by Antonio Aldridge</h4><br>
+            <p>Type in a ticket type you are looking for<br><br>I.E. searching "vimeo" will show all video ticket types</p>
+            <div id="searchWrapper">
+                <input
+                    type="text"
+                    name="searchBar"
+                    id="searchBar"
+                    placeholder="search for a ticket type"
+                />
+            </div>
+            <div id="ticketIndex"></div>
+        </div>
+        <script src="app.js"></script>
+        <script src="theme.js"></script>
+    </body>
+</html>
