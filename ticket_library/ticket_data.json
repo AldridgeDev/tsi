@@ -1,0 +1,562 @@
+[{
+    "id": 1,
+    "ticketName": "Delete/Hide 1 Item",
+    "ticket_rating": "1",
+    "tags": ["delete", "hide", "remove", "blank"],
+    "category": "Variety",
+    "template" : "<div class=\"template\"><h2>Please delete the following item:</h2> <span>add content here<span><br><span>Add optional screenshot here: </span></h2>"
+},
+{
+    "id": 2,
+    "ticketName": "Delete/Hide Multiple Items",
+    "ticket_rating": "2",
+    "tags": ["delete", "hide", "remove", "blank"],
+    "category": "Variety"
+},
+{
+    "id": 3,
+    "ticketName": "2-4 Edits",
+    "ticket_rating": "3",
+    "tags": [""],
+    "category": "Variety"
+},
+{
+    "id": 4,
+    "ticketName": "5-10 Edits",
+    "ticket_rating": "5",
+    "tags": [""],
+    "category": "Variety"
+},
+{
+    "id": 5,
+    "ticketName": "Pixel Code/Tracking Codes",
+    "ticket_rating": "1",
+    "tags": ["pixel", "code", "third party", "javascript", "segment", "RT", "SV"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 6,
+    "ticketName": "Google Tag Manager codes",
+    "ticket_rating": "2",
+    "tags": ["pixel", "code", "third party", "javascript", "Google"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 7,
+    "ticketName": "Troubleshooting (website/forms/widgets)",
+    "ticket_rating": "3",
+    "tags": ["fix", "not working", "blank", "debug", "troubleshoot", "third party", "not there"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 8,
+    "ticketName": "Video Addition (Single)",
+    "ticket_rating": "2",
+    "tags": ["video", "vimeo", "mp4", "mov", "upload"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 9,
+    "ticketName": "Videos Addition (2-5)",
+    "ticket_rating": "3",
+    "tags": ["video", "vimeo", "mp4", "mov", "upload"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 10,
+    "ticketName": "Videos Addition (6-10)",
+    "ticket_rating": "4",
+    "tags": ["video", "vimeo", "mp4", "mov", "upload"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 11,
+    "ticketName": "Video DL",
+    "ticket_rating": "4",
+    "tags": ["video", "vimeo", "mp4", "mov", "upload", "lead", "top", "page", "first", "section", "above", "lead", "hero"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 12,
+    "ticketName": "Widget/chat box code addition",
+    "ticket_rating": "2",
+    "tags": ["third party"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 13,
+    "ticketName": "Facebook Feed",
+    "ticket_rating": "1",
+    "tags": ["third party", "widget", "social media"],
+    "category": "Code/Widgets/Videos"
+},
+{
+    "id": 14,
+    "ticketName": "Header Layout Changes",
+    "ticket_rating": "3",
+    "tags": ["theme", "add to top", "top of site", "social bar", "center", "center align", "left align", "right align"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 15,
+    "ticketName": "Social icon addition",
+    "ticket_rating": "1",
+    "tags": ["facebook", "instagram", "gmb", "in the social bar", "follow us dropdown", "avvo", "home advisor"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 16,
+    "ticketName": "Social drop down to icons conversion",
+    "ticket_rating": "3",
+    "tags": ["facebook", "instagram", "in the social bar", "change follow us dropdown", "release", "convert", "break out"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 17,
+    "ticketName": "Link change",
+    "ticket_rating": "1",
+    "tags": ["change text", "replace"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 18,
+    "ticketName": "Navigation organization/dropdowns",
+    "ticket_rating": "2",
+    "tags": ["nav", "drop down", "organize", "add tab", "site map", "multiple tabs"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 19,
+    "ticketName": "Favicon",
+    "ticket_rating": "2",
+    "tags": ["change", "icon", "small", "image", "img", "picture tab", "tab picture", "small tab image"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 20,
+    "ticketName": "Logo edits",
+    "ticket_rating": "3",
+    "tags": ["change", "edit logo", "logos", "add to logo", "remove background", "image", "img"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 21,
+    "ticketName": "Flashing header banner (standard)",
+    "ticket_rating": "2",
+    "tags": ["header banner", "gradient", "pop", "flashy", "thin strip"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 22,
+    "ticketName": "Header text",
+    "ticket_rating": "2",
+    "tags": ["banner", "cta", "call to action", "link", "phone number", "address", "add"],
+    "category": "Header/Navigation"
+},
+{
+    "id": 23,
+    "ticketName": "Color/font change (single)",
+    "ticket_rating": "1",
+    "tags": ["color", "font", "style", "styling", "wording", "transparent", "hidden", "white on white", "not there"],
+    "category": "Style"
+},
+{
+    "id": 24,
+    "ticketName": "Color/font changes (multiple)",
+    "ticket_rating": "2",
+    "tags": ["color", "font", "style", "styling", "wording", "transparent", "hidden"],
+    "category": "Style"
+},
+{
+    "id": 25,
+    "ticketName": "Feature update (simple change)",
+    "ticket_rating": "2",
+    "tags": ["features", "option", "icons", "images", "img"],
+    "category": "Style"
+},
+{
+    "id": 26,
+    "ticketName": "New Features",
+    "ticket_rating": "3",
+    "tags": ["features", "option", "icons", "images", "img"],
+    "category": "Style"
+},
+{
+    "id": 27,
+    "ticketName": "Package Pricing",
+    "ticket_rating": "3",
+    "tags": ["features", "option", "icons", "price"],
+    "category": "Style"
+},
+{
+    "id": 28,
+    "ticketName": "Homepage layout changes",
+    "ticket_rating": "5",
+    "tags": ["main", "landing page", "layouts", "features", "adding", "multiple", "several"],
+    "category": "Style"
+},
+{
+    "id": 29,
+    "ticketName": "Single page creation",
+    "ticket_rating": "3",
+    "tags": ["one page", "adding new page", "add new page", "create", "testimonial page", "review page", "about us page", "gallery page", "contact us page", "service area page", "service page", "area we service", "areas we service", "one page", "content ticket"],
+    "category": "Pages"
+},
+{
+    "id": 30,
+    "ticketName": "Create multiple pages (2-3)",
+    "ticket_rating": "4",
+    "tags": ["several pages", "adding new pages", "add new pages", "create", "testimonial page", "review page", "about us page", "gallery pages", "service area page", "service page", "area we service", "areas we service", "one page", "multiple locations", "content ticket"],
+    "category": "Pages"
+},
+{
+    "id": 31,
+    "ticketName": "Create multiple pages (4+)",
+    "ticket_rating": "5",
+    "tags": ["several pages", "adding new pages", "add new pages", "create", "testimonial page", "review page", "about us page", "gallery pages", "service area page", "service page", "area we service", "areas we service", "one page", "multiple locations", "content ticket", "projects"],
+    "category": "Pages"
+},
+{
+    "id": 32,
+    "ticketName": "Custom layout page creation",
+    "ticket_rating": "4",
+    "tags": ["several pages", "adding new pages", "add new pages", "create", "testimonial page", "review page", "about us page", "gallery pages", "service area page", "service page", "area we service", "areas we service", "one page", "multiple locations", "content ticket", "not typical", "not average"],
+    "category": "Pages"
+},
+{
+    "id": 33,
+    "ticketName": "Testimonials page creation",
+    "ticket_rating": "3",
+    "tags": ["one page", "adding new page", "add new page", "create", "testimonial page", "review page", "reviews"],
+    "category": "Pages"
+},
+{
+    "id": 34,
+    "ticketName": "Thank you page creation",
+    "ticket_rating": "3",
+    "tags": ["one page", "adding new page", "add new page", "create", "ignite", "campaign"],
+    "category": "Pages"
+},
+{
+    "id": 35,
+    "ticketName": "Gallery page creation (up to 2 pages)",
+    "ticket_rating": "3",
+    "tags": ["one page", "adding new page", "add new page", "create", "images", "portfolio", "photography"],
+    "category": "Pages"
+},
+{
+    "id": 36,
+    "ticketName": "Gallery page creation (3+)",
+    "ticket_rating": "5",
+    "tags": ["adding new page", "add new page", "create", "images", "portfolio", "photography"],
+    "category": "Pages"
+},
+{
+    "id": 37,
+    "ticketName": "Text addition/change",
+    "ticket_rating": "1",
+    "tags": ["add text", "remove text", "delete text", "popup", "modal", "link", "wording", "words"],
+    "category": "Content/Images"
+},
+{
+    "id": 38,
+    "ticketName": "Content addition (up to 2 paragraphs)",
+    "ticket_rating": "2",
+    "tags": ["add text", "remove text", "delete text", "wording", "words", "multiple", "several", "adding content", "content addition"],
+    "category": "Content/Images"
+},
+{
+    "id": 39,
+    "ticketName": "Content addition (3+ paragraphs/multiple pages)",
+    "ticket_rating": "4",
+    "tags": ["add text", "remove text", "delete text", "wording", "words", "multiple", "several", "adding content", "content addition", "add pages", "adding pages", "content ticket"],
+    "category": "Content/Images"
+},
+{
+    "id": 40,
+    "ticketName": "Update Menus/Tables",
+    "ticket_rating": "4",
+    "tags": ["add text", "remove text", "delete text", "wording", "words", "multiple", "several", "adding content", "content addition", "add pages", "adding pages", "restaurant", "food"],
+    "category": "Content/Images"
+},
+{
+    "id": 41,
+    "ticketName": "Link change",
+    "ticket_rating": "1",
+    "tags": ["add text", "remove text", "delete text", "wording", "words"],
+    "category": "Content/Images"
+},
+{
+    "id": 42,
+    "ticketName": "Images addition (2-3, not DL)",
+    "ticket_rating": "2",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page"],
+    "category": "Content/Images"
+},
+{
+    "id": 43,
+    "ticketName": "Images addition (4-12[+/-3], not DL/min opt)",
+    "ticket_rating": "3",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page"],
+    "category": "Content/Images"
+},
+{
+    "id": 44,
+    "ticketName": "Images addition (16-32[+/-3], not DL/ext opt)",
+    "ticket_rating": "4",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page"],
+    "category": "Content/Images"
+},
+{
+    "id": 45,
+    "ticketName": "Images addition (36-72[+/-3], not DL/ext opt)",
+    "ticket_rating": "5",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page", "projects", "team project"],
+    "category": "Content/Images"
+},
+{
+    "id": 46,
+    "ticketName": "Images addition (75+, not DL/ext opt)",
+    "ticket_rating": "5-10",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page", "projects", "team project"],
+    "category": "Content/Images"
+},
+{
+    "id": 47,
+    "ticketName": "Images addition (75+, not DL/ext opt/lp + subs) (potential team ticket)",
+    "ticket_rating": "7-10",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "gallery page", "portfolio page", "projects", "team project"],
+    "category": "Content/Images"
+},
+{
+    "id": 48,
+    "ticketName": "DL (new/image change)",
+    "ticket_rating": "2",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "home page", "lead", "hero", "carousel"],
+    "category": "Content/Images"
+},
+{
+    "id": 49,
+    "ticketName": "DL changes (multiple)",
+    "ticket_rating": "3",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "home page", "lead", "hero", "gmb button", "slides", "add links", "2 buttons", "two buttons", "2 cta buttons", "multiple cta buttons", "carousel"],
+    "category": "Content/Images"
+},
+{
+    "id": 50,
+    "ticketName": "Holiday DL (including custom font)",
+    "ticket_rating": "3",
+    "tags": ["images", "adding images", "add images", "img", "pictures", "adding pictures", "add pictures", "home page", "lead", "hero", "gmb button", "slides", "presidents day", "fourth of july", "4th of july", "thanksgiving", "christmas", "holidays", "carousel", "seasonal"],
+    "category": "Content/Images"
+},
+{
+    "id": 51,
+    "ticketName": "Reviews addition (up to 10)",
+    "ticket_rating": "2",
+    "tags": ["add testimonials", "add reviews"],
+    "category": "Content/Images"
+},
+{
+    "id": 52,
+    "ticketName": "Reviews addition (adding 11-30)",
+    "ticket_rating": "3",
+    "tags": ["add testimonials", "add reviews"],
+    "category": "Content/Images"
+},
+{
+    "id": 53,
+    "ticketName": "Convert to Testimonial carousel",
+    "ticket_rating": "3",
+    "tags": ["add testimonials", "add reviews", "custom fading quotes", "custom quotes", "custom reviews", "custom testimonials", "slides", "carousel"],
+    "category": "Content/Images"
+},
+{
+    "id": 54,
+    "ticketName": "Convert to Testimonial carousel",
+    "ticket_rating": "2",
+    "tags": ["add testimonials", "add reviews", "slides", "carousel", "charlotte theme", "charlotte testimonials", "charlotte reviews"],
+    "category": "Content/Images"
+},
+{
+    "id": 55,
+    "ticketName": "Convert to Fading Testimonials",
+    "ticket_rating": "3",
+    "tags": ["add testimonials", "add reviews", "custom fading quotes", "custom quotes", "custom reviews", "custom testimonials", "slides", "carousel", "charlotte theme", "charlotte testimonials", "charlotte reviews", "fade"],
+    "category": "Content/Images"
+},
+{
+    "id": 56,
+    "ticketName": "Google review button",
+    "ticket_rating": "1",
+    "tags": ["gmb", "cta", "google my business"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 56,
+    "ticketName": "Google review button (Header/Floating)",
+    "ticket_rating": "2",
+    "tags": ["gmb", "cta", "google my business", "floating buttons", "social media floating buttons", "slide button", "slide from left", "slide from right", "slide out"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 57,
+    "ticketName": "Page Button (single)",
+    "ticket_rating": "1",
+    "tags": ["add gmb button", "add cta button", "add google button", "move google button", "move cta button", "replace google button"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 58,
+    "ticketName": "Page Buttons (2-5)",
+    "ticket_rating": "2",
+    "tags": ["add cta button", "move cta button", "several page buttons", "multiple page buttons"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 59,
+    "ticketName": "Page Buttons (5+)",
+    "ticket_rating": "3",
+    "tags": ["add cta button", "move cta button", "several page buttons", "multiple page buttons"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 60,
+    "ticketName": "Header Button (standard)",
+    "ticket_rating": "2",
+    "tags": ["add cta button", "move cta button", "above navigation bar", "above nav bar", "button in header", "header button", "button header", "mobile header button", "add a button to mobile header"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 61,
+    "ticketName": "Floating button (standard)",
+    "ticket_rating": "2",
+    "tags": ["one floating button", "single floating button", "singular floating button", "gmb floating button", "gmb button", "social media floating button"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 62,
+    "ticketName": "Floating button (custom)",
+    "ticket_rating": "3",
+    "tags": ["multiple floating buttons", "custom floating button", "click to text", "click to call", "social media floating buttons", "facebook", "instagram", "google my business", "home advisor", "yelp", "thumbtack", "linkedin", "snapchat", "youtube", "form", "popup", "pop up", "modal"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 63,
+    "ticketName": "Pop-up Modal (standard, age restriction modal)",
+    "ticket_rating": "3",
+    "tags": ["popups"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 64,
+    "ticketName": "Holiday Modal (pre holiday-styled)",
+    "ticket_rating": "3",
+    "tags": ["popups", "thanksgiving", "fourth of july", "4th of july", "christmas", "seasonal"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 65,
+    "ticketName": "Pop-up Modal (custom)",
+    "ticket_rating": "4",
+    "tags": ["popups", "form", "exit button", "multiple buttons", "multiple cta buttons"],
+    "category": "Buttons/Pop-ups"
+},
+{
+    "id": 66,
+    "ticketName": "Standard Form (contact/leave a review)",
+    "ticket_rating": "2",
+    "tags": ["testimonials", "application", "employment"],
+    "category": "Forms"
+},
+{
+    "id": 67,
+    "ticketName": "Form (up to 10 fields)",
+    "ticket_rating": "3",
+    "tags": ["custom form", "copy example form", "copy form", "form attached as pdf"],
+    "category": "Forms"
+},
+{
+    "id": 68,
+    "ticketName": "Large form (11-20 fields)",
+    "ticket_rating": "4",
+    "tags": ["custom form", "copy example form", "copy form", "form attached as pdf"],
+    "category": "Forms"
+},
+{
+    "id": 69,
+    "ticketName": "Extensive form (21+ fields, applications)",
+    "ticket_rating": "5",
+    "tags": ["custom form", "copy example form", "copy form", "form attached as pdf", "large form", "big form", "several pages", "multiple pages"],
+    "category": "Forms"
+},
+{
+    "id": 70,
+    "ticketName": "Form edit (simple)",
+    "ticket_rating": "2",
+    "tags": ["adding form field", "add the following", "new form fields", "new fields", "checkbox", "radio button", "multiple choice", "select multiple", "address", "new phone number", "new email", "add email", "change email", "form text notifications", "verizon", "t-mobile", "at&t", "att", "sprint", "cricket"],
+    "category": "Forms"
+},
+{
+    "id": 71,
+    "ticketName": "Form in DL",
+    "ticket_rating": "3",
+    "tags": ["lead", "hero", "convert DL", "change DL", "form dl"],
+    "category": "Forms"
+},
+{
+    "id": 72,
+    "ticketName": "Change address/hours",
+    "ticket_rating": "2",
+    "tags": ["add email", "add second phone number", "secondary phone number", "additional hours", "holiday hours", "summer hours", "winter hours", "fall hours", "autumn hours", "winter hours", "seasonal hours"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 73,
+    "ticketName": "Update phone number (global)",
+    "ticket_rating": "3",
+    "tags": ["numbers", "change phone number", "new phone number", "old phone number", "contact page"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 74,
+    "ticketName": "Update GEO in content",
+    "ticket_rating": "3",
+    "tags": ["change address", "change phone number", "change business name", "change hours", "update address", "update phone number", "update business name", "update hours", "throughout the site", "on all pages", "on both pages"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 75,
+    "ticketName": "GMB Map change (one location)",
+    "ticket_rating": "2",
+    "tags": ["google map change", "google map update", "update google map", "update map", "add service area to contact page"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 76,
+    "ticketName": "GMB Map change (multi location)",
+    "ticket_rating": "3",
+    "tags": ["google map change", "google map update", "update google map", "update map", "add service area to contact page", "add map for multiple locations", "update map for multiple locations", "add multiple locations", "both locations"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 77,
+    "ticketName": "Service Area map creation (pin or service area radius)",
+    "ticket_rating": "3",
+    "tags": ["create map", "create a map", "map pins", "service areas"],
+    "category": "NAPH/Maps/GEO"
+},
+{
+    "id": 78,
+    "ticketName": "Blog addition",
+    "ticket_rating": "3",
+    "tags": ["new blogs"],
+    "category": "Blogs"
+},
+{
+    "id": 79,
+    "ticketName": "Blog additions (multiple)",
+    "ticket_rating": "4",
+    "tags": ["new blogs"],
+    "category": "Blogs"
+}
+]
